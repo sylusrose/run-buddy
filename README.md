@@ -1,4 +1,6 @@
+
 # Run Buddy, Inc
+>>>>>>> a9d58c31b05bfb9536c45de770c7de9ff21607b0
 
 ## Purpose
 A website that offers fitness training services
